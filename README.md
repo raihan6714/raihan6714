@@ -16,7 +16,7 @@
 
 
 
-- 👋 Hi, I’m Abu Raihan
+- 👋 Hi, I’m Abu Rahan
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on Froentend web development projects.
