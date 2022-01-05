@@ -85,10 +85,11 @@ facebook <a href="facebook.com">facebook.com</a>
 
 
 
-
-
 <!---
 Abu Raihan/Abu Raihan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+## Github Stats:
+
+![Abu Rahan GitHub stats](https://github-readme-stats.vercel.app/api?username=raihan6714&show_icons=true&theme=default)
