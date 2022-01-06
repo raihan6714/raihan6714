@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on Froentend web development projects.
 - 📫 How to reach me 
-facebook <a href="facebook.com">facebook.com</a>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "350" width="50%"/>
 
 <!-- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm _Imam Hasan Tahim_
 ##### I'm a passionate Web Developer 
