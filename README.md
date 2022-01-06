@@ -13,9 +13,9 @@
 - - 🌱 I’m currently learning React Native.
 - - 💞️ I’m looking to collaborate on Froentend web development projects.
 - - 📫 How to reach me
+- 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "350" width="50%"/>
 
-##### I'm a passionate Web Developer 
 ### Connect with me:
 <p align="">
   <a href="https://www.linkedin.com/in/abu-raihan-8aa8b5216/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
