@@ -71,7 +71,7 @@ Skills Icons
 
 
 
-<!-- <p>
+<p>
 ![This is an image](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg)
 </p>
 <p>
@@ -80,7 +80,7 @@ Skills Icons
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
-</p> -->
+</p>
 
 
 
