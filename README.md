@@ -23,14 +23,14 @@
 - 📫 How to reach me 
 
 
-<!-- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm _Imam Hasan Tahim_
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm _Imam Hasan Tahim_
 ##### I'm a passionate Web Developer 
 ### Skills:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/IH-Tahim/count.svg)
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) -->
+![Visitor Count](https://profile-counter.glitch.me/IH-Tahim/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 ### My Skills:
 | Programming Languages | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
