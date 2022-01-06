@@ -7,17 +7,13 @@
 
 ### About Me:
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "350" width="50%"/>
-- 👋 Hi, I’m Abu Rahan
-- 
-- 👀 I’m interested in learning new technology
-- 
-- 🌱 I’m currently learning React Native.
-- 
-- 💞️ I’m looking to collaborate on Froentend web development projects.
-- 
-- 📫 How to reach me 
 
+- 👋 Hi, I’m Abu Rahan
+- - 👀 I’m interested in learning new technology
+- - 🌱 I’m currently learning React Native.
+- - 💞️ I’m looking to collaborate on Froentend web development projects.
+- - 📫 How to reach me 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "350" width="50%"/>
 ##### I'm a passionate Web Developer 
 ### Connect with me:
 <p align="">
