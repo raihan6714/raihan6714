@@ -14,6 +14,7 @@
   <a href=""><img alt="Code Pen" title="Code Pen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </p>
 
+### About Me:
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "350" width="50%"/>
 - 👋 Hi, I’m Abu Rahan
@@ -22,8 +23,6 @@
 - 💞️ I’m looking to collaborate on Froentend web development projects.
 - 📫 How to reach me 
 
-
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm _Abu Rahan_
 ##### I'm a passionate Web Developer 
 ### Skills:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
