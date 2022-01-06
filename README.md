@@ -52,22 +52,10 @@ Skills Icons
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
-
-
-
-
 
 
 
@@ -76,13 +64,10 @@ Skills Icons
 </p>
 <p>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" />
-  
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
 </p>
-
-
 
 
 <!---
