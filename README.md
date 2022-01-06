@@ -18,7 +18,7 @@
 
 ### Connect with me:
 <p align="">
-  <a href="https://www.linkedin.com/in/abu-raihan-8aa8b5216/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abu-rahan/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
