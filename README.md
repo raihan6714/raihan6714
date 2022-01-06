@@ -24,7 +24,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img alt="Code Pen" title="Code Pen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href=""><img alt="Portfolio" title="Code Pen" src="https://rahan-portfolio.netlify.app/"></a>
 </p>
 
 
