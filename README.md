@@ -4,16 +4,6 @@
   <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abu-raihan-8aa8b5216/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img alt="Code Pen" title="Code Pen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-</p>
-
 ### About Me:
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "350" width="50%"/>
@@ -24,7 +14,16 @@
 - 📫 How to reach me 
 
 ##### I'm a passionate Web Developer 
-### Skills:
+### Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/abu-raihan-8aa8b5216/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img alt="Code Pen" title="Code Pen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 
