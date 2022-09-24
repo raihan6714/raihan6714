@@ -1,4 +1,4 @@
-# Rahan
+# Raihan
 <h3 align="center">Hi there, I'm Abu Rahan  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -8,7 +8,7 @@
 ### About Me:
 
 
- - 👋 Hi, I’m Abu Rahan
+ - 👋 Hi, I’m Abu Raihan
  - 👀 I’m interested in learning new technology
  - 🌱 I’m currently learning React Native.
  - 💞️ I’m looking to collaborate on Froentend web development projects.
